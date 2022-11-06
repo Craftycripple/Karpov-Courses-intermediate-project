@@ -1,1 +1,2 @@
-# Karpov-Courses-intermediate-project
+# Промежуточный проект курса "Аналитик данных" от Karpov Courses
+
